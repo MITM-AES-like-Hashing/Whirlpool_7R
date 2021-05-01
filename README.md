@@ -31,7 +31,7 @@ Together with memory used in the attack, each thread can use up to 256 GB.
 ## On the results:
 
 * The attacks were verified on a server with 64 cores (use only 1 core for 36~44 bits matching and 4 cores for 48 bits matching) and 1TB memory. 
-  * To find a match on 36 bits, it took 29.3653 mins (see [F36.log](https://github.com/MITM-AES-like-Hashing/Whirlpool_7R/blob/main/F32.log));
+  * To find a match on 36 bits, it took 29.3653 mins (see [F36.log](https://github.com/MITM-AES-like-Hashing/Whirlpool_7R/blob/main/F36.log));
   * To find a match on 40 bits, it took 32.7435 mins (see [F40.log](https://github.com/MITM-AES-like-Hashing/Whirlpool_7R/blob/main/F40.log));
   * To find a match on 44 bits, it took 518.294 mins (see [F44.log](https://github.com/MITM-AES-like-Hashing/Whirlpool_7R/blob/main/F44.log));
   * To find a match on 48 bits, it took 4979.08 mins (see [F48.log](https://github.com/MITM-AES-like-Hashing/Whirlpool_7R/blob/main/F48.log)).
